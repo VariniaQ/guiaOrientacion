@@ -1,6 +1,5 @@
 {
   "name": "guiaorientacion",
-  "": "http://variniaQ.github.io/guiaOrientacionProfesional",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
