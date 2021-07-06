@@ -17,8 +17,8 @@ function Cards() {
             />
             <CardItem
               src='https://i.pinimg.com/originals/f5/27/0a/f5270acbc4b98112fcd520d2eea023de.gif'
-              text='Aquí encontrarás todos los Planes de Estudio. ¿Qué esperas para darles un vistazo?'
-              label='Planes de Estudio'
+              text='Haz el test para descubrir la profesión más adecuada para vos.'
+              label='Test de vocación profesional'
               path='/planesEstudio'
             />
           </ul>

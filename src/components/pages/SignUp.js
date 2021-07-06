@@ -1,6 +1,11 @@
 import React from 'react';
 import '../../App.css';
+import Form from '../../components/Form.js';
 
 export default function SignUp() {
-  return <h1 className='sign-up'>INICIA SESIÓN</h1>;
+  return (
+  <>
+  <Form />
+  </>
+  );
 }

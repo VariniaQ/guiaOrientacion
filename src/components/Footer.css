@@ -56,6 +56,11 @@
   margin-bottom: 2rem;
 }
 
+.adjustIcon{
+  width: 20%;
+  height: 20%;
+  padding-right: 5px;
+}
 /* Social Icons */
 .social-icon-link {
   color: #fff;
