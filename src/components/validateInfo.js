@@ -13,7 +13,7 @@ export default function validateInfo(values) {
     if (!values.password) {
       errors.password = '¡Contraseña obligatoria!';
     } else if (values.password.length < 6) {
-      errors.password = 'La contraseña tiene que tener al menos 6 digitos.';
+      errors.password = 'La contraseña tiene que tener al menos 6 caracteres.';
     }
   
     if (!values.password2) {

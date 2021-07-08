@@ -12,7 +12,7 @@ const Form = () => {
     <>
       <div className='form-container'>
         <div className='form-content-left'>
-          <img className='form-img' src='https://image.freepik.com/free-vector/person-late-work-business-character-night-working-office-sitting-with-computer-piles-paper-concept_80590-10072.jpg' alt='login' />
+          <img className='form-img' src='..images/login.jpg' alt='login' />
         </div>
         {!isSubmitted ? (
           <FormSignup submitForm={submitForm} />
