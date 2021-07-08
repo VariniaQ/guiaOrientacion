@@ -47,7 +47,7 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Planes de Estudio
+                Test Profesional
               </Link>
             </li>
             <li className='nav-item'>
