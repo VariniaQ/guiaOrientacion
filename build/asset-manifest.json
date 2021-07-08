@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/guiaorientacion/static/css/main.524621c3.chunk.css",
+    "main.js": "/guiaorientacion/static/js/main.e9f31834.chunk.js",
+    "main.js.map": "/guiaorientacion/static/js/main.e9f31834.chunk.js.map",
+    "runtime-main.js": "/guiaorientacion/static/js/runtime-main.454df9cf.js",
+    "runtime-main.js.map": "/guiaorientacion/static/js/runtime-main.454df9cf.js.map",
+    "static/js/2.da2a4eb4.chunk.js": "/guiaorientacion/static/js/2.da2a4eb4.chunk.js",
+    "static/js/2.da2a4eb4.chunk.js.map": "/guiaorientacion/static/js/2.da2a4eb4.chunk.js.map",
+    "index.html": "/guiaorientacion/index.html",
+    "precache-manifest.07f3c27c00026c8c7ceb2742b35939f5.js": "/guiaorientacion/precache-manifest.07f3c27c00026c8c7ceb2742b35939f5.js",
+    "service-worker.js": "/guiaorientacion/service-worker.js",
+    "static/css/main.524621c3.chunk.css.map": "/guiaorientacion/static/css/main.524621c3.chunk.css.map",
+    "static/js/2.da2a4eb4.chunk.js.LICENSE.txt": "/guiaorientacion/static/js/2.da2a4eb4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/guiaorientacion/static/media/img-2.1125c8ff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.454df9cf.js",
+    "static/js/2.da2a4eb4.chunk.js",
+    "static/css/main.524621c3.chunk.css",
+    "static/js/main.e9f31834.chunk.js"
+  ]
+}
