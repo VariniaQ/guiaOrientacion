@@ -32,7 +32,7 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              <img src="logo20.ico" className="adjustIcon" alt="logo"></img>
+              <img src="../images/logo20.ico" className="adjustIcon" alt="logo"></img>
               Guía de Orientación Profesional
             </Link>
           </div>
