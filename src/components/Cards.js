@@ -5,7 +5,7 @@ import CardItem from './CardItem';
 function Cards() {
   return (
     <div className='cards'>
-      <h1>Empieza ahora, eligiendo una de estas opciones:</h1>
+      <h1>Empieza ahora. Elige una de estas opciones:</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>

@@ -5,7 +5,7 @@ import Home from './components/pages/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import PlanesEstudio from './components/pages/PlanesEstudio';
 import Profesiones from './components/pages/Profesiones';
-import SignUp from './components/pages/SignUp';
+import SignUp from './components/pages/FormLogin';
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path='/home' exact component={Home} />
+          <Route path='/' exact component={Home} />
           <Route path='/planesEstudio' component={PlanesEstudio} />
           <Route path='/profesiones' component={Profesiones} />
           <Route path='/sign-up' component={SignUp} />

@@ -1,9 +1,10 @@
 import React from 'react';
-import signUp from './FormSignUp.js';
-import useForm from './useForm';
-import './Form.css';
+import signUp from '../FormSignUp.js';
+import useForm from '../useForm';
+import '../Form.css';
+import validate from '../validateInfo.js';
 
-const FormSignup = ({ submitForm }) => {
+const FormLogin = ({ submitForm }) => {
   const { handleChange, handleSubmit, values, errors } = useForm(
     submitForm,
     validate
@@ -52,4 +53,4 @@ const FormSignup = ({ submitForm }) => {
   );
 };
 
-export default FormSignup;
+export default FormLogin;
