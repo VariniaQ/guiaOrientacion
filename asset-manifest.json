@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/guiaOrientacion/static/css/main.3975ce92.chunk.css",
-    "main.js": "/guiaOrientacion/static/js/main.e9f31834.chunk.js",
-    "main.js.map": "/guiaOrientacion/static/js/main.e9f31834.chunk.js.map",
+    "main.css": "/guiaOrientacion/static/css/main.64c6c917.chunk.css",
+    "main.js": "/guiaOrientacion/static/js/main.5ebb7212.chunk.js",
+    "main.js.map": "/guiaOrientacion/static/js/main.5ebb7212.chunk.js.map",
     "runtime-main.js": "/guiaOrientacion/static/js/runtime-main.796b2081.js",
     "runtime-main.js.map": "/guiaOrientacion/static/js/runtime-main.796b2081.js.map",
-    "static/js/2.da2a4eb4.chunk.js": "/guiaOrientacion/static/js/2.da2a4eb4.chunk.js",
-    "static/js/2.da2a4eb4.chunk.js.map": "/guiaOrientacion/static/js/2.da2a4eb4.chunk.js.map",
+    "static/js/2.6b67fab1.chunk.js": "/guiaOrientacion/static/js/2.6b67fab1.chunk.js",
+    "static/js/2.6b67fab1.chunk.js.map": "/guiaOrientacion/static/js/2.6b67fab1.chunk.js.map",
     "index.html": "/guiaOrientacion/index.html",
-    "precache-manifest.0173037cf52b9835ff6ba3299de39761.js": "/guiaOrientacion/precache-manifest.0173037cf52b9835ff6ba3299de39761.js",
+    "precache-manifest.033d49ade06199739ebb435ef7ca33c2.js": "/guiaOrientacion/precache-manifest.033d49ade06199739ebb435ef7ca33c2.js",
     "service-worker.js": "/guiaOrientacion/service-worker.js",
-    "static/css/main.3975ce92.chunk.css.map": "/guiaOrientacion/static/css/main.3975ce92.chunk.css.map",
-    "static/js/2.da2a4eb4.chunk.js.LICENSE.txt": "/guiaOrientacion/static/js/2.da2a4eb4.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/guiaOrientacion/static/media/img-2.1125c8ff.jpg"
+    "static/css/main.64c6c917.chunk.css.map": "/guiaOrientacion/static/css/main.64c6c917.chunk.css.map",
+    "static/js/2.6b67fab1.chunk.js.LICENSE.txt": "/guiaOrientacion/static/js/2.6b67fab1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/guiaOrientacion/static/media/img-2.1125c8ff.jpg",
+    "static/media/logo20.png": "/guiaOrientacion/static/media/logo20.37ff9621.png",
+    "static/media/video-1.mp4": "/guiaOrientacion/static/media/video-1.229f5279.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.796b2081.js",
-    "static/js/2.da2a4eb4.chunk.js",
-    "static/css/main.3975ce92.chunk.css",
-    "static/js/main.e9f31834.chunk.js"
+    "static/js/2.6b67fab1.chunk.js",
+    "static/css/main.64c6c917.chunk.css",
+    "static/js/main.5ebb7212.chunk.js"
   ]
 }
