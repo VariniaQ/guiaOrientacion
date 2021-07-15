@@ -19,7 +19,7 @@ function Cards() {
               src='https://i.pinimg.com/originals/f5/27/0a/f5270acbc4b98112fcd520d2eea023de.gif'
               text='Haz el test para descubrir la profesión más adecuada para tí.'
               label='Test de vocación profesional'
-              path='/planesEstudio'
+              path='/test'
             />
           </ul>
           
