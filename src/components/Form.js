@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import './Form.css';
-import FormLogin from './FormLogin';
+import FormSignup from './FormSignUp';
 import FormSuccess from './FormSuccess';
-import login from '../images/login.jpg';
+import Footer from './Footer';
 const Form = () => {
   const [isSubmitted, setIsSubmitted] = useState(false);
 
@@ -12,15 +12,13 @@ const Form = () => {
   return (
     <>
       <div className='form-container'>
-        <div className='form-content-left'>
-          <img className='form-img' src={login} alt='login' />
-        </div>
         {!isSubmitted ? (
-          <FormLogin submitForm={submitForm} />
+          <FormSignup submitForm={submitForm} />
         ) : (
           <FormSuccess />
         )}
       </div>
+      <Footer />
     </>
   );
 };

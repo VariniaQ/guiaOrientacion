@@ -13,7 +13,7 @@ const FormSignup = ({ submitForm }) => {
     <div className='form-content-right'>
       <form onSubmit={handleSubmit} className='form' noValidate>
         <h1>
-          ¡Unite a nosotros! Crea tu cuenta completando la siguiente información:
+          Crea tu cuenta completando la siguiente información:
         </h1>
         <div className='form-inputs'>
           <label className='form-label'>Usuario</label>
