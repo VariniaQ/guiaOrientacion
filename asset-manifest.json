@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/guiaOrientacion/static/css/main.0bd5e9c9.chunk.css",
-    "main.js": "/guiaOrientacion/static/js/main.cf81ecb0.chunk.js",
-    "main.js.map": "/guiaOrientacion/static/js/main.cf81ecb0.chunk.js.map",
-    "runtime-main.js": "/guiaOrientacion/static/js/runtime-main.796b2081.js",
-    "runtime-main.js.map": "/guiaOrientacion/static/js/runtime-main.796b2081.js.map",
-    "static/js/2.05fc53d5.chunk.js": "/guiaOrientacion/static/js/2.05fc53d5.chunk.js",
-    "static/js/2.05fc53d5.chunk.js.map": "/guiaOrientacion/static/js/2.05fc53d5.chunk.js.map",
-    "index.html": "/guiaOrientacion/index.html",
-    "precache-manifest.04caa5db4ce31515ca37ad3efeeed3d1.js": "/guiaOrientacion/precache-manifest.04caa5db4ce31515ca37ad3efeeed3d1.js",
-    "service-worker.js": "/guiaOrientacion/service-worker.js",
-    "static/css/main.0bd5e9c9.chunk.css.map": "/guiaOrientacion/static/css/main.0bd5e9c9.chunk.css.map",
-    "static/js/2.05fc53d5.chunk.js.LICENSE.txt": "/guiaOrientacion/static/js/2.05fc53d5.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/guiaOrientacion/static/media/img-2.1125c8ff.jpg",
-    "static/media/login.jpg": "/guiaOrientacion/static/media/login.4afbb0c9.jpg",
-    "static/media/logo20.png": "/guiaOrientacion/static/media/logo20.37ff9621.png",
-    "static/media/video-1.mp4": "/guiaOrientacion/static/media/video-1.229f5279.mp4"
+    "main.css": "/static/css/main.06a36bcf.chunk.css",
+    "main.js": "/static/js/main.cadfef13.chunk.js",
+    "main.js.map": "/static/js/main.cadfef13.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b7e0d168.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b7e0d168.js.map",
+    "static/js/2.8e422992.chunk.js": "/static/js/2.8e422992.chunk.js",
+    "static/js/2.8e422992.chunk.js.map": "/static/js/2.8e422992.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dce1a79cf206a3d27a07847eed8cf3c5.js": "/precache-manifest.dce1a79cf206a3d27a07847eed8cf3c5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.06a36bcf.chunk.css.map": "/static/css/main.06a36bcf.chunk.css.map",
+    "static/js/2.8e422992.chunk.js.LICENSE.txt": "/static/js/2.8e422992.chunk.js.LICENSE.txt",
+    "static/media/electronica2.jpg": "/static/media/electronica2.91cd4ff4.jpg",
+    "static/media/hardware.jpg": "/static/media/hardware.95360133.jpg",
+    "static/media/App.css": "/static/media/img-2.1125c8ff.jpg",
+    "static/media/logo20.png": "/static/media/logo20.37ff9621.png",
+    "static/media/sistemas.jpg": "/static/media/sistemas.4c18020e.jpg",
+    "static/media/video-1.mp4": "/static/media/video-1.229f5279.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.796b2081.js",
-    "static/js/2.05fc53d5.chunk.js",
-    "static/css/main.0bd5e9c9.chunk.css",
-    "static/js/main.cf81ecb0.chunk.js"
+    "static/js/runtime-main.b7e0d168.js",
+    "static/js/2.8e422992.chunk.js",
+    "static/css/main.06a36bcf.chunk.css",
+    "static/js/main.cadfef13.chunk.js"
   ]
 }
