@@ -66,7 +66,7 @@ function Navbar() {
                 className='nav-links-mobile'
                 onClick={closeMobileMenu}
               >
-                Iniciar Sesión
+              Registrate
               </Link>
             </li>
           </ul>

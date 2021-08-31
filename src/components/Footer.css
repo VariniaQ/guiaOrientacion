@@ -48,7 +48,7 @@
 }
 
 .footer-link-items a:hover {
-  color: #8d8d8d;
+  color: rgb(255, 123,14);
   transition: 0.3s ease-out;
 }
 
