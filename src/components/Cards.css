@@ -93,6 +93,7 @@ h1 {
   object-fit: cover;
   transition: all 0.2s linear;
 }
+
 .cards__item__img {
   position: absolute;
   top: 0;
@@ -108,21 +109,25 @@ h1 {
   transition: all 0.2s linear;
 }
 
-.cards__item__img:hover, .cardsProfesionesImg {
+.cards__item__img:hover, .cardsProfesionesImg:hover {
   transform: scale(1.1);
 }
 
 .cards__item__info, .cardsInfoText {
   padding: 20px 30px 30px;
-  text-align: center;
+ 	text-align: center;
 }
+
+/*.cardsInfoText{
+  
+}*/
 
 .cardsInfoText, .cardsProfesionesText{
   background-color: #000000;
   color: rgb(235, 226, 226);
 }
 .cards__item__text, .cardsProfesionesText{
-  font-size: 18px;
+  font-size: 20px;
   line-height: 24px;
 }
 
