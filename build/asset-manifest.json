@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/guiaOrientaci%C3%B3n/static/css/main.1edc44bc.chunk.css",
+    "main.css": "/guiaOrientaci%C3%B3n/static/css/main.b37dd58f.chunk.css",
     "main.js": "/guiaOrientaci%C3%B3n/static/js/main.cadfef13.chunk.js",
     "main.js.map": "/guiaOrientaci%C3%B3n/static/js/main.cadfef13.chunk.js.map",
     "runtime-main.js": "/guiaOrientaci%C3%B3n/static/js/runtime-main.a87e132f.js",
@@ -8,9 +8,9 @@
     "static/js/2.8e422992.chunk.js": "/guiaOrientaci%C3%B3n/static/js/2.8e422992.chunk.js",
     "static/js/2.8e422992.chunk.js.map": "/guiaOrientaci%C3%B3n/static/js/2.8e422992.chunk.js.map",
     "index.html": "/guiaOrientaci%C3%B3n/index.html",
-    "precache-manifest.71381e41fb9d6338f68c85a3e76740c4.js": "/guiaOrientaci%C3%B3n/precache-manifest.71381e41fb9d6338f68c85a3e76740c4.js",
+    "precache-manifest.ef48a699ee561e41bbf0677bd3213b55.js": "/guiaOrientaci%C3%B3n/precache-manifest.ef48a699ee561e41bbf0677bd3213b55.js",
     "service-worker.js": "/guiaOrientaci%C3%B3n/service-worker.js",
-    "static/css/main.1edc44bc.chunk.css.map": "/guiaOrientaci%C3%B3n/static/css/main.1edc44bc.chunk.css.map",
+    "static/css/main.b37dd58f.chunk.css.map": "/guiaOrientaci%C3%B3n/static/css/main.b37dd58f.chunk.css.map",
     "static/js/2.8e422992.chunk.js.LICENSE.txt": "/guiaOrientaci%C3%B3n/static/js/2.8e422992.chunk.js.LICENSE.txt",
     "static/media/electronica2.jpg": "/guiaOrientaci%C3%B3n/static/media/electronica2.91cd4ff4.jpg",
     "static/media/hardware.jpg": "/guiaOrientaci%C3%B3n/static/media/hardware.95360133.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.a87e132f.js",
     "static/js/2.8e422992.chunk.js",
-    "static/css/main.1edc44bc.chunk.css",
+    "static/css/main.b37dd58f.chunk.css",
     "static/js/main.cadfef13.chunk.js"
   ]
 }
