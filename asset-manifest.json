@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.262d58ac.chunk.css",
-    "main.js": "/static/js/main.cadfef13.chunk.js",
-    "main.js.map": "/static/js/main.cadfef13.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b7e0d168.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b7e0d168.js.map",
-    "static/js/2.8e422992.chunk.js": "/static/js/2.8e422992.chunk.js",
-    "static/js/2.8e422992.chunk.js.map": "/static/js/2.8e422992.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6eced6828cf39466538d8b37012df3be.js": "/precache-manifest.6eced6828cf39466538d8b37012df3be.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.262d58ac.chunk.css.map": "/static/css/main.262d58ac.chunk.css.map",
-    "static/js/2.8e422992.chunk.js.LICENSE.txt": "/static/js/2.8e422992.chunk.js.LICENSE.txt",
-    "static/media/electronica2.jpg": "/static/media/electronica2.91cd4ff4.jpg",
-    "static/media/hardware.jpg": "/static/media/hardware.95360133.jpg",
-    "static/media/App.css": "/static/media/img-2.1125c8ff.jpg",
-    "static/media/logo20.png": "/static/media/logo20.37ff9621.png",
-    "static/media/sistemas.jpg": "/static/media/sistemas.4c18020e.jpg",
-    "static/media/video-1.mp4": "/static/media/video-1.229f5279.mp4"
+    "main.css": "/guiaOrientacion/static/css/main.e46196c9.chunk.css",
+    "main.js": "/guiaOrientacion/static/js/main.fcaaa048.chunk.js",
+    "main.js.map": "/guiaOrientacion/static/js/main.fcaaa048.chunk.js.map",
+    "runtime-main.js": "/guiaOrientacion/static/js/runtime-main.796b2081.js",
+    "runtime-main.js.map": "/guiaOrientacion/static/js/runtime-main.796b2081.js.map",
+    "static/js/2.8e422992.chunk.js": "/guiaOrientacion/static/js/2.8e422992.chunk.js",
+    "static/js/2.8e422992.chunk.js.map": "/guiaOrientacion/static/js/2.8e422992.chunk.js.map",
+    "index.html": "/guiaOrientacion/index.html",
+    "precache-manifest.4d6a19841fc16b54cf8f238ef443bc23.js": "/guiaOrientacion/precache-manifest.4d6a19841fc16b54cf8f238ef443bc23.js",
+    "service-worker.js": "/guiaOrientacion/service-worker.js",
+    "static/css/main.e46196c9.chunk.css.map": "/guiaOrientacion/static/css/main.e46196c9.chunk.css.map",
+    "static/js/2.8e422992.chunk.js.LICENSE.txt": "/guiaOrientacion/static/js/2.8e422992.chunk.js.LICENSE.txt",
+    "static/media/electronica2.jpg": "/guiaOrientacion/static/media/electronica2.91cd4ff4.jpg",
+    "static/media/hardware.jpg": "/guiaOrientacion/static/media/hardware.95360133.jpg",
+    "static/media/App.css": "/guiaOrientacion/static/media/img-2.1125c8ff.jpg",
+    "static/media/logo20.png": "/guiaOrientacion/static/media/logo20.37ff9621.png",
+    "static/media/sistemas.jpg": "/guiaOrientacion/static/media/sistemas.4c18020e.jpg",
+    "static/media/video-1.mp4": "/guiaOrientacion/static/media/video-1.229f5279.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7e0d168.js",
+    "static/js/runtime-main.796b2081.js",
     "static/js/2.8e422992.chunk.js",
-    "static/css/main.262d58ac.chunk.css",
-    "static/js/main.cadfef13.chunk.js"
+    "static/css/main.e46196c9.chunk.css",
+    "static/js/main.fcaaa048.chunk.js"
   ]
 }
