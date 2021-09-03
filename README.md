@@ -1,3 +1,3 @@
 ⚠️ IMPORTANTE
 
-Link: https://variniaq.github.io
+Link: https://variniaq.github.io/guiaOrientacion/
