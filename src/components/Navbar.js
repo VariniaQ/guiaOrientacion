@@ -66,11 +66,11 @@ function Navbar() {
                 className='nav-links-mobile'
                 onClick={closeMobileMenu}
               >
-              Registrate
+              Inicia sesion
               </Link>
             </li>
           </ul>
-          {button && <Button buttonStyle='btn--outline'>Iniciar sesión</Button>}
+          {button && <Button buttonStyle='btn--outline'>Registrate</Button>}
         </div>
       </nav>
     </>
