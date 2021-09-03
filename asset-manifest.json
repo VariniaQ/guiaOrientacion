@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.06a36bcf.chunk.css",
+    "main.css": "/static/css/main.86bba02c.chunk.css",
     "main.js": "/static/js/main.cadfef13.chunk.js",
     "main.js.map": "/static/js/main.cadfef13.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b7e0d168.js",
@@ -8,9 +8,9 @@
     "static/js/2.8e422992.chunk.js": "/static/js/2.8e422992.chunk.js",
     "static/js/2.8e422992.chunk.js.map": "/static/js/2.8e422992.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dce1a79cf206a3d27a07847eed8cf3c5.js": "/precache-manifest.dce1a79cf206a3d27a07847eed8cf3c5.js",
+    "precache-manifest.9b7a632489c24cf907610dcd3c4286db.js": "/precache-manifest.9b7a632489c24cf907610dcd3c4286db.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.06a36bcf.chunk.css.map": "/static/css/main.06a36bcf.chunk.css.map",
+    "static/css/main.86bba02c.chunk.css.map": "/static/css/main.86bba02c.chunk.css.map",
     "static/js/2.8e422992.chunk.js.LICENSE.txt": "/static/js/2.8e422992.chunk.js.LICENSE.txt",
     "static/media/electronica2.jpg": "/static/media/electronica2.91cd4ff4.jpg",
     "static/media/hardware.jpg": "/static/media/hardware.95360133.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.b7e0d168.js",
     "static/js/2.8e422992.chunk.js",
-    "static/css/main.06a36bcf.chunk.css",
+    "static/css/main.86bba02c.chunk.css",
     "static/js/main.cadfef13.chunk.js"
   ]
 }
