@@ -9,7 +9,6 @@ import SignUp from './components/pages/SignUp';
 
 //TODO hacer que la pagina funcione al cargar (anotar porque no funciona)
 //hacer la página del test
-//hacer la pagina de profesiones
 
 function App() {
   return (
