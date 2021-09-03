@@ -70,7 +70,7 @@ function Navbar() {
               </Link>
             </li>
           </ul>
-          {button && <Button buttonStyle='btn--outline'>INICIAR SESIÓN</Button>}
+          {button && <Button buttonStyle='btn--outline'>Iniciar sesión</Button>}
         </div>
       </nav>
     </>
