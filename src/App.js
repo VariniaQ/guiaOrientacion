@@ -7,7 +7,7 @@ import Test from './components/pages/Test';
 import Profesiones from './components/pages/Profesiones';
 import SignUp from './components/pages/SignUp';
 
-//TODO hacer que la pagina funcione al cargar (anotar porque no funciona)
+//TODO hacer que la pagina funcione al cargar (anotar porque no funciona) - no funcionaba porque habia un error en la direccion de la página.GitHub redireccionaba el home a guiaOrientacion/ mientras que yo le indicaba que debia ser en /
 //hacer la página del test
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route exact path='/guiaOrientacion' component={Home} /> {/*edit this path*/}
+          <Route exact path='/guiaOrientacion' component={Home} />
           <Route path='/test' component={Test} />
           <Route path='/profesiones' component={Profesiones} />
           <Route path='/sign-up' component={SignUp} />
