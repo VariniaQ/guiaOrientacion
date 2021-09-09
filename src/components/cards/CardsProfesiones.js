@@ -15,7 +15,7 @@ function Cards() {
             <CardItem
               src={sistemas}
               text='Ingeniería en Sistemas'
-              // path='/profSection' component={Home} arreglar, no funciona
+              path='/carreras'
             />
             <CardItem
               src={electronica}

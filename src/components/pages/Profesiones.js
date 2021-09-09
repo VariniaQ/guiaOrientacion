@@ -7,7 +7,6 @@ export default function Profesiones() {
   return (
     <>
 			<CardsProfesiones />
-      <Footer />
     </>
   );
 }

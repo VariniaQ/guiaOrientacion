@@ -18,7 +18,6 @@ const Form = () => {
           <FormSuccess />
         )}
       </div>
-      <Footer />
     </>
   );
 };
