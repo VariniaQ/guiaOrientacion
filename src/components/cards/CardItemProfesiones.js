@@ -6,15 +6,15 @@ function CardItem(props) {
     <>
       <li className='cards__item'>
         <Link className='cards__item__link' to={props.path}>
-          <figure className='.cardsItemProfesion' data-category={props.label}>
+          <figure className='cards__item__profesion' data-category={props.label}>
             <img
-              className='cardsProfesionesImg'
+              className='cards__profesion__img'
               alt=''
               src={props.src}
             />
           </figure>
-          <div className='cardsInfoText'>
-            <h5 className='cardsProfesionesText'>{props.text}</h5>
+          <div className='cards__info__text'>
+            <h5 className='cards__profesion__text'>{props.text}</h5>
           </div>
         </Link>
       </li>

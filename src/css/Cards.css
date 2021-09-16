@@ -44,7 +44,7 @@ h1 {
   text-decoration: none;
 }
 
-.cards__item__pic-wrap, .cardsItemProfesion {
+.cards__item__pic-wrap {
   position: relative;
   width: 100%;
   padding-top: 67%;
@@ -69,7 +69,7 @@ h1 {
   box-sizing: border-box;
 }
 
-.cardsItemProfesion::after{
+.cards__item__profesion::after{
   content: attr(data-category);
   position: absolute;
   bottom: 0;
@@ -81,7 +81,8 @@ h1 {
   background-color: black;
   box-sizing: border-box;
 }
-.cardsProfesionesImg{
+
+.cards__profesion__img{
   top: 0;
   right: 0;
   bottom: 0;
@@ -110,20 +111,20 @@ h1 {
   transition: all 0.2s linear;
 }
 
-.cards__item__img:hover, .cardsProfesionesImg:hover {
+.cards__item__img:hover, .cards__profesion__img:hover {
   transform: scale(1.1);
 }
 
-.cards__item__info, .cardsInfoText {
+.cards__item__info, .cards__info__text {
   padding: 20px 30px 30px;
  	text-align: center;
 }
 
-.cardsInfoText, .cardsProfesionesText{
+.cards__info__text, .cards__profesion__text{
   background-color: #000000;
   color: rgb(255, 255, 255);
 }
-.cards__item__text, .cardsProfesionesText{
+.cards__item__text, .cards__profesion__text{
   font-size: 20px;
   line-height: 24px;
 }

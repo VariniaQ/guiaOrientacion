@@ -1,12 +1,22 @@
 .body{
     color:rgb(0, 0, 0);
+    background-color: white;
 }
 
-.img_universidad{
-    width: 0%;
+.contenedor-carrera-img{
+    background-image: url("../images/sistemas.jpg");
+    margin-bottom:2%;
+}
+
+.contenedor-carrera-img:hover{
+    transform: scale(1.025);
+    transition: all 0.2s linear;
+}
+
+.universidad-logo{
+    width: 20%;
 }
 
 .hr_vertical{
-    border:0;
-    margin:30%;
+  /*do a gray vertical line*/
 }
