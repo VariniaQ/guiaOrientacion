@@ -1,15 +1,14 @@
 import React from 'react';
-import Navbar from './components/Navbar';
+import Navbar from './components/utiles/Navbar';
 import './App.css';
 import Home from './components/pages/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Test from './components/pages/Test';
 import Profesiones from './components/pages/Profesiones';
 import SignUp from './components/pages/SignUp';
-import ProfesionesCarreras from './components/ProfesionesCarreras';
-import Footer from './components/Footer';
+import ProfesionesCarreras from './components/pages/ProfesionesCarreras';
+import Footer from './components/utiles/Footer';
 //TODO hacer que la pagina funcione al cargar (anotar porque no funciona) - no funcionaba porque habia un error en la direccion de la página.GitHub redireccionaba el home a guiaOrientacion/ mientras que yo le indicaba que debia ser en /
-//hacer la página del test
 
 function App() {
   return (

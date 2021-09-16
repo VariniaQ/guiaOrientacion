@@ -1,9 +1,9 @@
 import React from 'react';
-import '../css/ProfesionesCarreras.css';
-import sistemas from '../images/sistemas.jpg';
-import utn from '../images/utn.png';
-import itba from '../images/itba.png';
-import uba from '../images/uba.png';
+import '../../css/ProfesionesCarreras.css';
+import sistemas from '../../images/sistemas.jpg';
+import utn from '../../images/utn.png';
+import itba from '../../images/itba.png';
+import uba from '../../images/uba.png';
 
 function ProfesionesCarreras() {
     return (
@@ -14,7 +14,7 @@ function ProfesionesCarreras() {
                <p>Se encarga de resolver problemas relacionados al control de procesos industriales, 
                sistemas electrónicos de potencia, instrumentación y control, y la transformación eléctrica.</p>
                <h2>Universidades</h2>
-               <img class="img_universidades" src={utn} alt="UTN"/>
+               <img class="img_universidad" src={utn} alt="UTN"/>
                <p>Universidad Técnica Nacional</p>
                <button>Contenidos</button>
                <img class="img_universidades" src={itba} alt="ITBA"/>
