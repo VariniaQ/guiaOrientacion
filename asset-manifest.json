@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/guiaOrientacion/static/css/main.f8c030ca.chunk.css",
-    "main.js": "/guiaOrientacion/static/js/main.75fef305.chunk.js",
-    "main.js.map": "/guiaOrientacion/static/js/main.75fef305.chunk.js.map",
+    "main.css": "/guiaOrientacion/static/css/main.1dcf99f0.chunk.css",
+    "main.js": "/guiaOrientacion/static/js/main.21f118f3.chunk.js",
+    "main.js.map": "/guiaOrientacion/static/js/main.21f118f3.chunk.js.map",
     "runtime-main.js": "/guiaOrientacion/static/js/runtime-main.796b2081.js",
     "runtime-main.js.map": "/guiaOrientacion/static/js/runtime-main.796b2081.js.map",
     "static/js/2.b9c7d444.chunk.js": "/guiaOrientacion/static/js/2.b9c7d444.chunk.js",
     "static/js/2.b9c7d444.chunk.js.map": "/guiaOrientacion/static/js/2.b9c7d444.chunk.js.map",
     "index.html": "/guiaOrientacion/index.html",
-    "precache-manifest.0112b92bc747e10f50e5573b1c0ec6d3.js": "/guiaOrientacion/precache-manifest.0112b92bc747e10f50e5573b1c0ec6d3.js",
+    "precache-manifest.785ec56c68feee12ef7d3eae5477336c.js": "/guiaOrientacion/precache-manifest.785ec56c68feee12ef7d3eae5477336c.js",
     "service-worker.js": "/guiaOrientacion/service-worker.js",
-    "static/css/main.f8c030ca.chunk.css.map": "/guiaOrientacion/static/css/main.f8c030ca.chunk.css.map",
+    "static/css/main.1dcf99f0.chunk.css.map": "/guiaOrientacion/static/css/main.1dcf99f0.chunk.css.map",
     "static/js/2.b9c7d444.chunk.js.LICENSE.txt": "/guiaOrientacion/static/js/2.b9c7d444.chunk.js.LICENSE.txt",
     "static/media/electronica2.jpg": "/guiaOrientacion/static/media/electronica2.91cd4ff4.jpg",
     "static/media/hardware.jpg": "/guiaOrientacion/static/media/hardware.95360133.jpg",
     "static/media/App.css": "/guiaOrientacion/static/media/img-2.1125c8ff.jpg",
     "static/media/logo20.png": "/guiaOrientacion/static/media/logo20.37ff9621.png",
-    "static/media/sistemas.jpg": "/guiaOrientacion/static/media/sistemas.4c18020e.jpg",
+    "static/media/ProfesionesCarreras.css": "/guiaOrientacion/static/media/sistemas.4c18020e.jpg",
     "static/media/uba.png": "/guiaOrientacion/static/media/uba.215cca39.png",
     "static/media/utn.png": "/guiaOrientacion/static/media/utn.ed7b6d84.png",
     "static/media/HeroSection.css": "/guiaOrientacion/static/media/video_inicio.879877f9.gif"
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.796b2081.js",
     "static/js/2.b9c7d444.chunk.js",
-    "static/css/main.f8c030ca.chunk.css",
-    "static/js/main.75fef305.chunk.js"
+    "static/css/main.1dcf99f0.chunk.css",
+    "static/js/main.21f118f3.chunk.js"
   ]
 }
