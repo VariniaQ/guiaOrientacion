@@ -1,6 +1,6 @@
-.body{
+body{
     color:rgb(0, 0, 0);
-    background-color: white;
+    background: rgb(255, 255, 255);
 }
 
 .contenedor-carrera-img{
@@ -13,10 +13,40 @@
     transition: all 0.2s linear;
 }
 
-.universidad-logo{
-    width: 20%;
+.descripcion-carrera{
+    margin: 2% 0% 2% 0%;
+    text-align: center;
 }
 
-.hr_vertical{
-  /*do a gray vertical line*/
+.universidades-logos{
+    display: flex;
+    flex-flow: row-reverse;
+    align-items: center;
+    width: 90%;
 }
+
+.logo{
+    width: 15%;
+    margin: 2% 10% 2% 0%;
+}
+
+/*mostrar alineada horizontalmente con su imagen*/
+.nombres-universidades{
+    flex-flow: row-reverse;
+    text-align: center;
+    display: flex; 
+}
+
+.universidad{
+    margin: 2% 12% 2% 2%;
+}
+
+/*.boton-contenido{ 
+    background-color: rgb(71, 136, 209);
+    text-decoration: none;
+    margin: 0%;
+    position: absolute;
+    align-items: center;
+    border-radius: 20px;
+    width: 20%;
+}*/
