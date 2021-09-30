@@ -1,11 +1,7 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import '../../css/ProfesionesCarreras.css';
 import sistemas from '../../images/sistemas.jpg';
-import utn from '../../images/utn.png';
-import itba from '../../images/itba.png';
-import uba from '../../images/uba.png';
-import logo from '../../images/search.png';
+import IconCards from '../cards/IconCards';
 
 function ProfesionesCarreras() {
     return (
@@ -20,18 +16,23 @@ function ProfesionesCarreras() {
                {/*descripcion*/}
                <p className="descripcion-carrera">Se encarga de resolver problemas relacionados al control de procesos industriales, 
                sistemas electrónicos de potencia, instrumentación y control, y la transformación eléctrica.</p>
-               {/*lista de universidades*/}
+               {/*lista de universidades
                <div className="universidades-logos">
-                  <img className="logo" src={utn} alt="UTN"/>
-                  <div className="linea-horizontal"></div> {/*crea una linea horizontal*/}
-                  <img className="logo" src={itba} alt="ITBA"/>
-                  <img className="logo" src={uba} alt="UBA"/>
+                  <a className="logo" href="https://utn.edu.ar/es/estudiar-utn?tipo_busqueda=carreras&id_tipos_carreras=3&id_seleccion=67" rel="noreferrer">
+                     <img src={utn} alt="UTN"/>
+                  </a>
+                  <a className="logo" href="https://utn.edu.ar/es/estudiar-utn?tipo_busqueda=carreras&id_tipos_carreras=3&id_seleccion=67" rel="noreferrer">
+                     <img src={itba} alt="ITBA"/>
+                  </a>
+                  <a className="logo" href="https://www.ingenieria.uba.ar/grado/carreras/lic-en-analisis-de-sistemas" rel="noreferrer">
+                     <img src={uba} alt="UBA"/>
+                  </a>
                </div>
-      
-                              
+                  */}     
                {/*<Link to='/' className='boton-contenido'>
                   <img src={logo} className="adjust-icon" alt="logo-busqueda"></img>Contenido
                </Link>*/}
+               <IconCards />
             </div>
          </>
     );

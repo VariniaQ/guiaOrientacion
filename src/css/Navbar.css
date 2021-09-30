@@ -152,8 +152,8 @@
   }
 
   .nav-links-mobile:hover {
-    background: #fff;
-    color: #242424;
+    background: rgb(255, 255, 255);
     transition: 250ms;
   }
+
 }

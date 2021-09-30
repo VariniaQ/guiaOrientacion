@@ -20,15 +20,14 @@ function Cards() {
             <CardItem
               src={electronica}
               text='Ingeniería en Electrónica'
-              path='/test'
+              path='/carreras'/*editar luego*/
             />
             <CardItem
               src={hardware}
               text='Ingeniería en Hardware'
-              path='/test'
+              path='/carreras' /*editar luego*/
             />
           </ul>
-          
         </div>
       </div>
     </div>

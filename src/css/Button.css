@@ -1,10 +1,10 @@
 :root {
-  --primary: #fff;
+  --primary: rgb(19, 18, 18);
 }
 
 .btn {
   padding: 8px 20px;
-  border-radius: 2px;
+  border-radius: 4px;
   outline: none;
   border: none;
   cursor: pointer;
@@ -12,16 +12,19 @@
 
 .btn--primary {
   background-color: var(--primary);
-  color: #242424;
+  color: #ffffff;
 }
 
 .btn--outline, .btn--home {
-  background-color: transparent;
-  color: rgb(255, 255, 255);
-  padding: 8px 20px;
+  text-align: center;
+  border-radius: 4px;
+  width: 100%;
+  text-decoration: none;
+  background-color: rgb(26, 23, 23);
+  color: #fff;
+  border: 1px solid #fff;
   transition: all 0.3s ease-out;
 }
-
 .btn--medium {
   padding: 8px 20px;
   font-size: 18px;
@@ -35,7 +38,7 @@
 .btn--large:hover,
 .btn--medium:hover {
   transition: all 0.3s ease-out;
-  background: rgb(0, 0, 0);
-  color: #ffffff;
+  background-color: rgb(255, 255, 255);
+  color: rgb(26, 23, 23);
   transition: 250ms;
 }

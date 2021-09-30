@@ -69,18 +69,7 @@ h1 {
   box-sizing: border-box;
 }
 
-.cards__item__profesion::after{
-  content: attr(data-category);
-  position: absolute;
-  bottom: 0;
-  margin-left: 10px;
-  padding: 6px 8px;
-  max-width: calc((100%) - 60px);
-  font-size: 15px;
-  color: #fff;
-  background-color: black;
-  box-sizing: border-box;
-}
+
 
 .cards__profesion__img{
   top: 0;

@@ -5,7 +5,7 @@ body{
 
 .contenedor-carrera-img{
     background-image: url("../images/sistemas.jpg");
-    margin-bottom:2%;
+    margin-bottom:1%;
 }
 
 .contenedor-carrera-img:hover{
@@ -14,31 +14,8 @@ body{
 }
 
 .descripcion-carrera{
-    margin: 2% 0% 2% 0%;
+    margin: 2% 0% 0% 0%;
     text-align: center;
-}
-
-.universidades-logos{
-    display: flex;
-    flex-flow: row-reverse;
-    align-items: center;
-    width: 90%;
-}
-
-.logo{
-    width: 15%;
-    margin: 2% 10% 2% 0%;
-}
-
-/*mostrar alineada horizontalmente con su imagen*/
-.nombres-universidades{
-    flex-flow: row-reverse;
-    text-align: center;
-    display: flex; 
-}
-
-.universidad{
-    margin: 2% 12% 2% 2%;
 }
 
 /*.boton-contenido{ 

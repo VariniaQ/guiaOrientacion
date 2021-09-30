@@ -5,7 +5,6 @@ import CardItem from './CardItem';
 function Cards() {
   return (
     <div className='cards'>
-      <h1>Elige una de estas opciones:</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
@@ -22,7 +21,6 @@ function Cards() {
               path='/test'
             />
           </ul>
-          
         </div>
       </div>
     </div>
