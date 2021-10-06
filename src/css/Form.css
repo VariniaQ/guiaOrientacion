@@ -1,9 +1,6 @@
-body{
-  background:rgb(255, 138, 43);
-}
-
 .form-container {
   margin: 100px auto;
+  background-color:rgb(255, 138, 43);
   width: 550px;
   box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);    position: relative;
   border-radius: 10px;
@@ -93,8 +90,8 @@ body{
     border-radius: 2px;
     background: linear-gradient(
       90deg,
-      rgb(21, 31, 77) 0%,
-      rgb(20, 58, 134) 100%
+      rgb(20, 58, 134) 0%,
+      rgb(98, 181, 247) 100%
     );
     outline: none;
     border: none;
@@ -106,8 +103,8 @@ body{
     cursor: pointer;
     background: linear-gradient(
       90deg,
-      rgb(9, 78, 151) 0%,
-      rgb(19, 45, 94)100%
+      rgb(98, 181, 247) 0%,
+      rgb(20, 58, 134) 100%
     );
     transition: all 0.4s ease-out;
 }

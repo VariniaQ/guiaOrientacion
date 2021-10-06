@@ -1,3 +1,9 @@
+/*
+	 Guia Orientación Vocacional
+	 by Varinia Quisbert
+	 https://variniaq.github.io/guiaOrientacion/
+*/
+
 import React from 'react';
 import Navbar from './components/utiles/Navbar';
 import './App.css';
@@ -8,7 +14,6 @@ import Profesiones from './components/pages/Profesiones';
 import SignUp from './components/pages/SignUp';
 import ProfesionesCarreras from './components/pages/ProfesionesCarreras';
 import Footer from './components/utiles/Footer';
-//TODO hacer que la pagina funcione al cargar (anotar porque no funciona) - no funcionaba porque habia un error en la direccion de la página.GitHub redireccionaba el home a guiaOrientacion/ mientras que yo le indicaba que debia ser en /
 
 function App() {
   return (
