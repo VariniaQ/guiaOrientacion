@@ -30,7 +30,7 @@
 }
 .test{
     background-color: rgb(22,22,22);
-    padding: 15px;
+    padding: 15px  15px 30px 15px;
     border-radius: 10px;
 }
 .test-btn {
@@ -47,6 +47,6 @@
     border: none;
     color: #fff;
     font-size: 1rem;  
-  justify-content: center;
-  align-items: center;
+    justify-content: center;
+    align-items: center;
 }

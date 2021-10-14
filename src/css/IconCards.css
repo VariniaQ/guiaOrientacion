@@ -37,7 +37,7 @@
     box-shadow: none;
   }
   
-  .cards__item__universidades /**/{
+  .cards__item__universidades{
     position: relative;
     width: 100%;
     padding-top: 67%;
@@ -47,7 +47,6 @@
     animation-name: fade-img;
     animation-duration: 2s;
   }
-  
   
   .cards__universidades__img {
     position: absolute;
@@ -68,7 +67,7 @@
     transform: scale(1.05);
   }
   
-  .cards__universidades__text{/*c*/
+  .cards__universidades__text{
     font-size: 18px;
   }
 
@@ -77,8 +76,8 @@
      text-align: center;
   }
 
-  .cards__universidades__text{/*c*/
-    color: #111111;/*c*/
+  .cards__universidades__text{
+    color: #111111;
   }
   
   @media only screen and (min-width: 1200px) {
