@@ -7,13 +7,12 @@ function ProfesionesCarreras() {
     return (
          <>
             <div className="carreras">
-               {/*imagen*/}
                <div className="contenedor-carrera-img">
                   <img src={sistemas} alt="sistemas"/>
                </div>
-               {/*titulo*/}
+               {/*titulo carrera*/}
                <h1>Ingeniería en Sistemas</h1>
-               {/*descripcion*/}
+               {/*descripcion carrera*/}
                <p className="descripcion-carrera">Se encarga de resolver problemas relacionados al control de procesos industriales, 
                sistemas electrónicos de potencia, instrumentación y control, y la transformación eléctrica.</p>
                {/*lista de universidades
