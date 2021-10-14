@@ -1,0 +1,29 @@
+body{
+    color:rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+}
+
+.contenedor-carrera-img{
+    background-image: url("../images/sistemas.jpg");
+    margin-bottom:1%;
+}
+
+.contenedor-carrera-img:hover{
+    transform: scale(1.025);
+    transition: all 0.2s linear;
+}
+
+.descripcion-carrera{
+    margin: 2% 0% 0% 0%;
+    text-align: center;
+}
+
+/*.boton-contenido{ 
+    background-color: rgb(71, 136, 209);
+    text-decoration: none;
+    margin: 0%;
+    position: absolute;
+    align-items: center;
+    border-radius: 20px;
+    width: 20%;
+}*/

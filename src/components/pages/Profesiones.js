@@ -1,6 +1,11 @@
 import React from 'react';
 import '../../App.css';
+import CardsProfesiones from '../cards/CardsProfesiones';
 
 export default function Profesiones() {
-  return <h1 className='profesiones'>Profesiones</h1>;
+  return (
+    <>
+			<CardsProfesiones />
+    </>
+  );
 }

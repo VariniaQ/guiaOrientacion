@@ -5,33 +5,13 @@
   font-family: 'PT Sans', sans-serif;
 }
 
-.home,
-.planesEstudio,
-.profesiones{
-  display: flex;
-  height: 90vh;
-  align-items: center;
-  justify-content: center;
-  font-size: 3rem;
-}
-
-.planesEstudio {
-  background-image: url('./images/img-2.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-color: rgb(22, 22, 22);
-  color: rgb(255, 111, 28);
-  font-size: 100px;
+.test {
+  color: #fff;
+  margin: 20px;
 }
 
 .profesiones {
-  background-image: url('./images/img-1.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
   color: rgb(0, 0, 0);
-  font-size: 100px;
 }
 
 .form-style {
