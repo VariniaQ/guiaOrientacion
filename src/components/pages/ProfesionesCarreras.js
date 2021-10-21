@@ -7,11 +7,9 @@ function ProfesionesCarreras() {
     return (
          <>
             <div className="background_carreras">
-               <div className="contenido">
                
                   {/* Imagen de la carrera*/}
                   <div className="contenedor-carrera-img">
-                     <img className="carrera-img" src={sistemas} alt="sistemas"/>
                   </div>      
 
                   {/*titulo carrera*/}
@@ -48,7 +46,6 @@ function ProfesionesCarreras() {
                   {/*<IconCards />*/}
                </div>
                
-            </div>
          </>
     );
 }

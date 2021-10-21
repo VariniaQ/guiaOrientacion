@@ -3,7 +3,7 @@ body{
     background: rgba(43, 156, 237, 0.87);
 }
 
-.carreras{
+.background_carreras{
     background-color: rgb(255, 255, 255);
 }
 
@@ -18,6 +18,9 @@ body{
 }
 
 .contenedor-carrera-img{
+    width: 600px;
+    height: 100px;
+    background-image: url('../images/sistemas.jpg');
     position: absolute;
 }
 

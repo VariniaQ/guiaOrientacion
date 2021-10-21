@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/guiaOrientacion/static/css/main.f276d8a9.chunk.css",
-    "main.js": "/guiaOrientacion/static/js/main.097fab2d.chunk.js",
-    "main.js.map": "/guiaOrientacion/static/js/main.097fab2d.chunk.js.map",
+    "main.css": "/guiaOrientacion/static/css/main.fee33b09.chunk.css",
+    "main.js": "/guiaOrientacion/static/js/main.3a88e205.chunk.js",
+    "main.js.map": "/guiaOrientacion/static/js/main.3a88e205.chunk.js.map",
     "runtime-main.js": "/guiaOrientacion/static/js/runtime-main.796b2081.js",
     "runtime-main.js.map": "/guiaOrientacion/static/js/runtime-main.796b2081.js.map",
-    "static/js/2.6cb3f786.chunk.js": "/guiaOrientacion/static/js/2.6cb3f786.chunk.js",
-    "static/js/2.6cb3f786.chunk.js.map": "/guiaOrientacion/static/js/2.6cb3f786.chunk.js.map",
+    "static/js/2.2a76a1be.chunk.js": "/guiaOrientacion/static/js/2.2a76a1be.chunk.js",
+    "static/js/2.2a76a1be.chunk.js.map": "/guiaOrientacion/static/js/2.2a76a1be.chunk.js.map",
     "index.html": "/guiaOrientacion/index.html",
-    "precache-manifest.6573dbb8ba10088e6bd245652537e046.js": "/guiaOrientacion/precache-manifest.6573dbb8ba10088e6bd245652537e046.js",
+    "precache-manifest.7a5bfca25b1f2b97140a30c58aeff274.js": "/guiaOrientacion/precache-manifest.7a5bfca25b1f2b97140a30c58aeff274.js",
     "service-worker.js": "/guiaOrientacion/service-worker.js",
-    "static/css/main.f276d8a9.chunk.css.map": "/guiaOrientacion/static/css/main.f276d8a9.chunk.css.map",
-    "static/js/2.6cb3f786.chunk.js.LICENSE.txt": "/guiaOrientacion/static/js/2.6cb3f786.chunk.js.LICENSE.txt",
+    "static/css/main.fee33b09.chunk.css.map": "/guiaOrientacion/static/css/main.fee33b09.chunk.css.map",
+    "static/js/2.2a76a1be.chunk.js.LICENSE.txt": "/guiaOrientacion/static/js/2.2a76a1be.chunk.js.LICENSE.txt",
     "static/media/electronica2.jpg": "/guiaOrientacion/static/media/electronica2.91cd4ff4.jpg",
     "static/media/hardware.jpg": "/guiaOrientacion/static/media/hardware.95360133.jpg",
     "static/media/logo20.png": "/guiaOrientacion/static/media/logo20.37ff9621.png",
-    "static/media/sistemas.jpg": "/guiaOrientacion/static/media/sistemas.4c18020e.jpg",
+    "static/media/ProfesionesCarreras.css": "/guiaOrientacion/static/media/sistemas.4c18020e.jpg",
     "static/media/uba.png": "/guiaOrientacion/static/media/uba.d2de7820.png",
     "static/media/HeroSection.css": "/guiaOrientacion/static/media/video.528c839f.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.796b2081.js",
-    "static/js/2.6cb3f786.chunk.js",
-    "static/css/main.f276d8a9.chunk.css",
-    "static/js/main.097fab2d.chunk.js"
+    "static/js/2.2a76a1be.chunk.js",
+    "static/css/main.fee33b09.chunk.css",
+    "static/js/main.3a88e205.chunk.js"
   ]
 }
