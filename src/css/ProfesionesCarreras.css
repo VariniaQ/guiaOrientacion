@@ -5,28 +5,30 @@ body{
 
 .background_carreras{
     background-color: rgb(255, 255, 255);
+    margin: 0 60px 0px 60px;
 }
 
 .titulo{
     color: rgb(0, 0, 0);
     font-size: 2.5em;
+    position: relative;
 }
 
 .carrera-img{
-    height: 200px;
-    padding-left: 50px;
+    image-rendering: pixelated;
+    width:100%;
+    height:250px;
 }
 
 .contenedor-carrera-img{
-    width: 600px;
-    height: 100px;
-    background-image: url('../images/sistemas.jpg');
-    position: absolute;
+    position: relative;
+    height: 250px;
+
 }
 
 .descripcion-carrera{
-    margin: 2% 10% 12% 32%;
-    text-align: center;
+    margin: 2%;
+    text-align: justify;
     font-size: 1.2em;
 }
 
