@@ -1,21 +1,30 @@
 body{
     color:rgb(0, 0, 0);
-    background: rgb(255, 255, 255);
+    background: rgba(43, 156, 237, 0.87);
+}
+
+.carreras{
+    background-color: rgb(255, 255, 255);
+}
+
+.titulo{
+    color: rgb(0, 0, 0);
+    font-size: 2.5em;
+}
+
+.carrera-img{
+    height: 200px;
+    padding-left: 50px;
 }
 
 .contenedor-carrera-img{
-    background-image: url("../images/sistemas.jpg");
-    margin-bottom:1%;
-}
-
-.contenedor-carrera-img:hover{
-    transform: scale(1.025);
-    transition: all 0.2s linear;
+    position: absolute;
 }
 
 .descripcion-carrera{
-    margin: 2% 0% 0% 0%;
+    margin: 2% 10% 12% 32%;
     text-align: center;
+    font-size: 1.2em;
 }
 
 /*.boton-contenido{ 
