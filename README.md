@@ -1,6 +1,6 @@
-<h1>About this<h1>
+<h2>About this<h2>
   
-<h3>Link to web page:</h3> https://variniaq.github.io/guiaOrientacion/
+<h2>Link to web page:</h2> https://variniaq.github.io/guiaOrientacion/
 
 <p>This project was created for educational proposes.</p>
 
